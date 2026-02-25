@@ -1,0 +1,23 @@
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Database
+*.db
+
+# dataset
+*.csv
+
+# Zip files
+*.zip
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
